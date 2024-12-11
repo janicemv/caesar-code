@@ -46,3 +46,6 @@ This project doesn't require any external dependencies. It relies purely on HTML
   "text": "Hello World"
 }
 ```
+## Layout
+
+The layout was made using basic HTML and Bootstrap 5.3.3, with a few personal styles.
