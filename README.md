@@ -49,3 +49,7 @@ This project doesn't require any external dependencies. It relies purely on HTML
 ## Layout
 
 The layout was made using basic HTML and Bootstrap 5.3.3, with a few personal styles.
+
+### Credits
+
+[Password icons created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/password)
