@@ -1,0 +1,25 @@
+.form-container {
+    max-width: 80%;
+    margin: 4em auto;
+    background-color: #b2b2f9;
+    padding: 2em;
+    border-radius: 1rem;
+}
+
+.slider-container {
+    max-width: 40%;
+}
+
+h1 {
+    color: #393993;
+    font-weight: 700;
+}
+
+#sliderValue {
+    font-size: 0.8em;
+    color: #393993;
+}
+
+.icon {
+font-size: 0.6em;
+}
